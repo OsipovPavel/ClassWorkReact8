@@ -1,0 +1,59 @@
+header {
+  background: linear-gradient(to right, #00DCEA, #043BC9);
+  height: 100px;
+}
+
+.wrapper {
+  display: flex;
+  justify-content: space-around;
+}
+.pic1 {
+  width: 600px;
+  height: 600px;
+  margin-left: 640px;
+}
+
+.pic2 {
+  width: 500px;
+  height: 500px;
+  margin-top: 50px;
+}
+
+.pic3 {
+  margin-left: 705px;
+  height: 650px;
+}
+
+p {
+  width: 1200px;
+  margin: 50px auto;
+  font-size: 20px;
+}
+
+h2 {
+  text-align: center;
+  margin-bottom: 50px;
+  margin-top: 50px;
+}
+
+h3 {
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+  display: flex;
+  width: 900px;
+  margin-left: 580px;
+  font-size: 20px;
+}
+
+li {
+  text-decoration: none;
+  margin-left: 30px;
+  padding-top: 35px;
+}
+
+Link {
+  text-decoration: none;
+}
